@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About the 8U Brewers",
+      "description": "Team philosophy",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-08-07T21:57:41-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Citrus Park 8U Brewers",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-08-07T21:57:42-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

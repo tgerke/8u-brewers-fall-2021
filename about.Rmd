@@ -1,0 +1,9 @@
+---
+title: "About the 8U Brewers"
+description: |
+  Team philosophy
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
