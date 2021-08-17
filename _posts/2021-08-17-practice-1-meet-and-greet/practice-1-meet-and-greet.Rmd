@@ -1,0 +1,59 @@
+---
+title: "Practice 1: Meet and greet"
+description: |
+  Our plan for the first practice
+author:
+  - name: Travis Gerke
+    url: {}
+date: 2021-08-17
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Dynamic warm-up
+
+**Arrival - 5:35**: Soccer
+
+**5:35-5:40**: Standard stretching routine led by a player
+  
+-- If you are curious about "why use a dynamic warmup?" see [Fletcher, JSCR 2007](https://journals.lww.com/nsca-jscr/Abstract/2007/08000/THE_ACUTE_EFFECTS_OF_COMBINED_STATIC_AND_DYNAMIC.22.aspx) for details on how standard static stretching routines do not promote as much activation / blood flow and reduce power output compared to dynamic routines.
+
+### Defense
+
+**5:40-6:05**: Fielding in 3 stations (groups below), 8 minutes each.
+
+  1. IF: Rolled grounders from home (not hit with a bat; this improves accuracy and efficiency) + throwing to knock a cone off the top of a tee at 1B from all positions. Rotate through P, C, 2B, SS, 3B. Go through line 5 times at each station. Repeat cycle if time allows.
+  2. RF: Around the world with mini hitting plyos (the weight of these is good for encouraging catches in pocket of glove rather than on the hand). Stand 5-10 ft from each player, throw around their body starting in 1 o'clock position through 11; 12 o'clock goes straight to chest. Emphasizing when to use backhand catch (importantly, including the one at the chest).
+  3. LF: Goalie drill. Place 2 cones 15ft apart. Coach tries to score points by getting grounders past the fielder and between the cones. This is about blocking the ball (even if diving, so coach: make this fun). 2 minute rounds.
+
+### Offense
+
+**6:05-6:30**: Hitting/running in 2 stations, 8 minutes each. Parent meetings happen during this phase.
+
+  1. Explain running, touching bases, scoring on mini-field. Explain how getting outs stops the scoring. Group 1 kids try to score, coach rolls very easy grounders to Group 2 to get outs. Focus here is **running fast** and also recognizing that you cannot be tagged out when you are on a base.
+  2. Mini-hitting plyos in opposite corner of field, 6 pitches each, rotate.
+
+### Competition
+
+**6:30-6:50** 3-team baseball (potentially with a tennis ball depending on field location). Rotate the 3 groups through hitting / IF / OF
+
+
+### Players (group)
+
+James P (1) <br>
+Carter G (2) <br>
+Bodey (3) <br>
+Merit (1) <br>
+Carter R (2) <br>
+Joslyn (3) <br>
+Colin (1) <br>
+Wesley (2) <br>
+Alexander (3) <br>
+Eliot (1) <br>
+James A (2) <br>
