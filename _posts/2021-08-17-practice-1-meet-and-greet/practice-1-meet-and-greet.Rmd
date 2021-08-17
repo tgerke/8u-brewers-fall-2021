@@ -24,9 +24,11 @@ knitr::opts_chunk$set(echo = FALSE)
   
 -- If you are curious about "why use a dynamic warmup?" see [Fletcher, JSCR 2007](https://journals.lww.com/nsca-jscr/Abstract/2007/08000/THE_ACUTE_EFFECTS_OF_COMBINED_STATIC_AND_DYNAMIC.22.aspx) for details on how standard static stretching routines do not promote as much activation / blood flow and reduce power output compared to dynamic routines.
 
+**5:40-5:50**: Observe throwing/catching in pairs with incrediballs
+
 ### Defense
 
-**5:40-6:05**: Fielding in 3 stations (groups below), 8 minutes each.
+**5:50-6:15**: Fielding in 3 stations (groups below), 8 minutes each.
 
   1. IF: Rolled grounders from home (not hit with a bat; this improves accuracy and efficiency) + throwing to knock a cone off the top of a tee at 1B from all positions. Rotate through P, C, 2B, SS, 3B. Go through line 5 times at each station. Repeat cycle if time allows.
   2. RF: Around the world with mini hitting plyos (the weight of these is good for encouraging catches in pocket of glove rather than on the hand). Stand 5-10 ft from each player, throw around their body starting in 1 o'clock position through 11; 12 o'clock goes straight to chest. Emphasizing when to use backhand catch (importantly, including the one at the chest).
@@ -34,14 +36,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Offense
 
-**6:05-6:30**: Hitting/running in 2 stations, 8 minutes each. Parent meetings happen during this phase.
+**6:15-6:40**: Hitting/running in 2 stations, 8 minutes each. Parent meetings happen during this phase.
 
   1. Explain running, touching bases, scoring on mini-field. Explain how getting outs stops the scoring. Group 1 kids try to score, coach rolls very easy grounders to Group 2 to get outs. Focus here is **running fast** and also recognizing that you cannot be tagged out when you are on a base.
   2. Mini-hitting plyos in opposite corner of field, 6 pitches each, rotate.
 
 ### Competition
 
-**6:30-6:50** 3-team baseball (potentially with a tennis ball depending on field location). Rotate the 3 groups through hitting / IF / OF
+**6:40-7:00** 3-team baseball (potentially with a tennis ball depending on field location). Rotate the 3 groups through hitting / IF / OF
 
 
 ### Players (group)
