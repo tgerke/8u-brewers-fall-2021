@@ -1,0 +1,62 @@
+---
+title: "Practice 3"
+description: |
+  Our plan for the third practice
+author:
+  - name: Travis Gerke
+    url: {}
+date: 2021-08-24
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+### Groups
+
+**Dugout 1**
+
+Eliot (1) <br>
+Joslyn (1) <br>
+Bodey (1) <br>
+Merit (1) <br>
+James A (2) <br>
+Carter G (2) <br>
+
+**Dugout 2**
+
+James P (2) <br>
+Colin (2) <br>
+Wesley (3) <br>
+Carter R (3) <br>
+Alexander (3) <br>
+
+### Dynamic warm-up
+
+**Arrival - 5:35**: Catch
+
+**5:35-5:40**: Standard stretching routine led by a player
+
+### Base running
+
+**5:40-5:50**: Explain base coaches (Stu on 1B, Justin at 3B). Each kid runs through twice. 
+**5:50-6:05**: Remove base coaches, explain that kids may now get out. Justin sets up tee at home (with glove to defend at home), Stu left half of IF, Travis right half, Guy 1B
+
+### Situational Defense
+
+**6:05-6:20**: IF as below with others running:
+  - P: AJ, 1B: James, 2B: Eliot, SS: Merit, 3B: Colin, C: Bodey
+**6:20-6:35**: OF (with rover) as below with others running:
+  - Rover: James A, Joslyn, Carter R, Carter G, Wesley (can switch into rover)
+
+### Offense
+
+**6:35-6:50**: Hitting 3 stations
+
+  1. IF: Hitting off machine (Travis + Justin)
+  2. Cage: regular BP (Stu)
+  3. CF: HR derby behind net; soft toss if you want (Guy)
+  4. Hitting off tee into net while waiting (team parents monitored)
+
+### Competition
+
+**6:50-7:10** If time allows, Scrimmage
