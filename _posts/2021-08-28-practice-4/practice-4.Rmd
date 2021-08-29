@@ -1,0 +1,59 @@
+---
+title: "Practice 4"
+description: |
+  Our plan for the fourth practice
+author:
+  - name: Travis Gerke
+    url: {}
+date: 2021-08-29
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+### Groups
+
+**Dugout 1**
+
+Eliot (1) <br>
+Joslyn (1) <br>
+Bodey (1) <br>
+Merit (1) <br>
+James A (2) <br>
+Carter G (2) <br>
+
+**Dugout 2**
+
+James P (2) <br>
+Colin (2) <br>
+Wesley (3) <br>
+Carter R (3) <br>
+AJ (3) <br>
+
+### Dynamic warm-up
+
+**Arrival - 8:35**: Catch
+
+**8:35-8:40**: Standard stretching routine led by a player
+
+### Base running
+
+**8:40-8:45**: Listening to base coaches (Stu on 1B, Justin at 3B). Each kid runs through once. 
+**8:45-8:55**: Remove base coaches, explain that kids may now get out. Kids hit. Justin sets up tee at home (with glove to defend at home), Stu left half of IF, Travis right half, Guy 1B
+
+### Defense stations
+
+**9:00-9:24**: Two stations, 12 minutes each (switch halfway). Infield does positional fielding / throwing to first (Stu/Justin). Outfield does mix of pop ups, grounders, and throwing hard back to the coach. Ideal to break outfield into two groups if we can (Guy/Travis).
+
+Group A (infield first, they get rolled grounders and throw to a coach at 1B): Carter R (P), Carter G (2B), Jocelyn (SS), James A (3B), Wes (Rover)
+
+Group B (outfield first): AJ (P), James P (1B), Eliot (2B), Merit (SS), Colin (3B), Bodey (C)
+
+### Situational Defense
+
+**9:25-9:40**: IF as below with others running:
+  - P: AJ, 1B: James, 2B: Eliot, SS: Merit, 3B: Colin, C: Bodey, Jocelyn (Rover only doing backup, also hit a couple up the middle for her to field)
+
+### Offense
+
+**9:45-10:20**: Hitting 3 stations, each kid gets 3 minutes, blow the whistle. Order of stations (as soon as they finish one, go to the back of the line at the next station): infield machine (Travis/Justin), cage (Stu), outfield heavy balls (Guy). Use group numbers at the top of this page for starting positions.
