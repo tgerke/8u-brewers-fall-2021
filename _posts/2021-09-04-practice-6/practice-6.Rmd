@@ -1,0 +1,53 @@
+---
+title: "Practice 6"
+description: |
+  Our plan for the sixth practice
+author:
+  - name: Travis Gerke
+    url: {}
+date: 2021-09-04
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+### Groups
+
+**Dugout 1**
+
+Eliot (1) <br>
+Joslyn (1) <br>
+Bodey (1) <br>
+Merit (1) <br>
+<!--James A (2) <br>-->
+Carter G (2) <br>
+
+**Dugout 2**
+
+James P (2) <br>
+Colin (2) <br>
+Wesley (3) <br>
+Carter R (3) <br>
+AJ (3) <br>
+
+### Dynamic warm-up
+
+**Arrival - 8:35**: Catch
+
+**8:35-8:40**: Standard stretching routine led by a player
+
+### Base running
+
+**8:40-8:55**: Listening to base coaches (Stu on 1B, Justin at 3B). **Mention again "back" for pop ups, and explain when that can happen** Roll or throw pop-ups to a coach when they run in this section. Transition to coaches fielding and defending against kids running.
+
+### Defense
+
+**9:00-9:20**: Field the full team. **Throw** (for accuracy and safety) a mix of unpredictable grounders/pop ups/fly balls to OF for the kids to get running coaches out.
+
+### Hitting
+
+**9:25-10:00**: Hitting 3 stations, each kid gets 3 minutes, blow the whistle. Order of stations (as soon as they finish one, go to the back of the line at the next station): infield machine (Travis/Justin), cage (Stu), outfield heavy balls (Guy). Use group numbers at the top of this page for starting positions.
+
+### Scrimmage
+
+**10:00-10:30**: Teams as listed by dugout
